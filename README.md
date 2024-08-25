@@ -9,8 +9,6 @@ The World Cups dataset show all information about all the World Cups in the hist
 
 AIM - Find key metrics and factors that influence the World Cup win.
 
-Dataset: This data is courtesy of the FIFA World Cup Archive website. https://drive.google.com/drive/folders/12oHYj0qH2uZD8I13cVDiymTNDYldeJRa?usp=sharing
-
 Insights,
 
 Insight 1 : Brazil has won the tournament most number of times
